@@ -7,7 +7,7 @@
 
 <br>
 
-- Пакетный менеджер: `uv`
+- Пакетный менеджер: [uv](https://docs.astral.sh/uv/)
 - Версия Python: [3.11](/.python-version)
 - Установка библиотек: `uv sunc`
 - Запуск Jupyter Notebook (linux): `./run-uv-jupyter.sh`
