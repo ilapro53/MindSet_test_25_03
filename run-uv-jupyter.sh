@@ -1,0 +1,2 @@
+uv run --with jupyter jupyter-notebook --NotebookApp.token=6eec1de1478ed75ff7af27877471b65c09777ad2497dcc67 --allow-root
+# http://localhost:8888/tree?token=6eec1de1478ed75ff7af27877471b65c09777ad2497dcc67
